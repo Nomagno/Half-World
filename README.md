@@ -1,2 +1,2 @@
-# Half-Wolrd
-The Universal Racing game
+# Official repository now at:
+# https://halfworld.nomagno.xyz
