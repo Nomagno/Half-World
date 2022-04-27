@@ -1,2 +1,2 @@
-# Official repository now at:
+# The official repository is listed in the website:
 # https://halfworld.nomagno.xyz
